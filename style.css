@@ -69,6 +69,7 @@ p{
 }
 .l-heading{
   font-size: 40px;
+  line-height: 1.2;
 }
 /* padding */
 .py-1{padding: 10px 0;}
@@ -127,7 +128,7 @@ p{
   }
   /* home info */
 #home-info{
-  height: 400px;
+  height: 450px;
 }
 
 #home-info .info-img{
